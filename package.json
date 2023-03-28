@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "moon-sandbox",
+  "scripts": {
+    "moon": "moon"
+  },
+  "license": "MIT"
+}
