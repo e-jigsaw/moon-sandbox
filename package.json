@@ -4,5 +4,9 @@
   "scripts": {
     "moon": "moon"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "",
+  "engines": {
+    "node": "18.11.0"
+  }
 }
